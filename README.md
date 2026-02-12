@@ -2,6 +2,8 @@
 
 **380 lines. ptrace-based. Works.**
 
+![Architecture](architecture.svg)
+
 ## Build
 
 ```bash
